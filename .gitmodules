@@ -1,0 +1,6 @@
+[submodule "Archon"]
+	path = Archon
+	url = https://github.com/Zhang-Liao/Archon.git
+[submodule "dalek-lean-noproofs"]
+	path = dalek-lean-noproofs
+	url = https://github.com/Beneficial-AI-Foundation/dalek-lean-noproofs.git
